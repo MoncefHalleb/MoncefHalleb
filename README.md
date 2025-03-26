@@ -1,34 +1,62 @@
-# Hi there, I'm Moncef Halleb 👋
+# Moncef Halleb
 
-I'm a passionate software developer with a strong interest in backend development, cloud computing, and open-source contributions. I enjoy solving complex problems and learning new technologies.
+**Location:** Ariana, Tunisia  
+**Email:** [moncef.halleb@esprit.tn](mailto:moncef.halleb@esprit.tn)  
+**Phone:** +216 93251933  
+**GitHub:** [github.com/moncefhalleb](https://github.com/moncefhalleb)
 
-## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks:** Node.js, Express.js, Django, Flask, React
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud:** AWS, Azure, Google Cloud
-- **Tools:** Docker, Kubernetes, Git, GitHub Actions, Terraform
+## Professional Summary
 
-## 📈 GitHub Stats
-![MoncefHalleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoncefHalleb&show_icons=true&theme=radical)
+Motivated IT engineering student with hands-on experience in secure, enterprise-grade applications using Spring Boot, Angular, Symfony, and JavaFX. Skilled in microservices, Docker, REST APIs, and OAuth2. Eager to contribute to innovative teams through technical strength and leadership.
 
-## 📫 How to reach me
-- **Email:** moncef.halleb@esprit.tn
-- **LinkedIn:** [Moncef Halleb](https://www.linkedin.com/in/moncef-halleb-a01a75237/)
+## Skills
 
-## 🌱 I’m currently learning
-- Advanced Kubernetes techniques
-- Machine learning and AI concepts
-- Blockchain development
+- **Languages:** Java, JavaScript, C/C++, PHP
+- **Frameworks:** Spring Boot, Angular, Symfony, React.js, JavaFX, Qt
+- **Databases:** MySQL, PostgreSQL, H2, MongoDB
+- **Tools:** Docker, Git, Postman, Keycloak, REST APIs, OAuth2
+- **Concepts:** Microservices, DevOps, MVC, CI/CD
+- **Soft Skills:** Leadership, Teamwork, Communication, Project Management
 
-## 💼 Experience
-- **Software Engineering student at Esprit** (2021 - Present)
-  - Developed and maintained scalable backend services using Node.js and springboot.
-  - Implemented CI/CD pipelines using GitHub Actions and Docker.
-  - Collaborated with cross-functional teams to design and implement new features.
+## Education
 
-- **Open Source Contributor**
-  - Contributed to several open-source projects, including bug fixes, feature implementations, and documentation improvements.
+**ESPRIT, IT Engineering**  
+*Sep 2021 – Present*  
+Ariana, Tunisia  
+Relevant Coursework: Software Engineering, Data Structures, DevOps
 
-## 🤝 Let's Connect!
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me through any of the platforms above!
+## Projects
+
+- **Mramma** *(2025 – Present)*  
+  Spring Boot + Angular platform with Dockerized microservices, SSO via Keycloak/OAuth2, and RBAC admin dashboards.
+
+- **Freelancy** *(2023 – 2024)*  
+  Freelance platform using Symfony (web) + JavaFX (desktop). Delivered authentication, reporting, and task workflow modules.
+
+- **Eco-Bikes** *(2023)*  
+  Mobile-first bike rental app in PHP. Built secure booking and responsive UI; optimized backend performance.
+
+- **Smart Event Planner** *(2022 – 2023)*  
+  Qt C++ event manager. Designed GUI and scheduling engine for conflict handling and calendar control.
+
+- **Tunisian Past-ture** *(2022)*  
+  SDL ecosystem simulation with clean architecture and original interaction mechanics.
+
+## Volunteering
+
+- **VP Marketing, Tunivisions Esprit GCEM** *(2022 – 2024)*
+- **General Secretary, Rotaract Tunis Belvédère** *(2022 – 2023)*
+- **General Secretary, Youth Changers Djerba** *(2019 – 2020)*
+
+## Achievements
+
+- Transitioned from Math Baccalaureate to top-ranked IT student.
+- Led successful full-stack projects under strict deadlines.
+- Known for adaptability, leadership, and result-driven mindset.
+
+## Languages
+
+- Arabic (Native)
+- French (Native)
+- English (Proficient)
+- German (Basic)
