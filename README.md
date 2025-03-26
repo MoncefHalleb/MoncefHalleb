@@ -13,9 +13,8 @@ I'm a passionate software developer with a strong interest in backend developmen
 ![MoncefHalleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoncefHalleb&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** moncef.halleb@example.com
-- **LinkedIn:** [Moncef Halleb](https://www.linkedin.com/in/moncefhalleb/)
-- **Twitter:** [@MoncefHalleb](https://twitter.com/MoncefHalleb)
+- **Email:** moncef.halleb@esprit.tn
+- **LinkedIn:** [Moncef Halleb](https://www.linkedin.com/in/moncef-halleb-a01a75237/)
 
 ## 🌱 I’m currently learning
 - Advanced Kubernetes techniques
@@ -23,8 +22,8 @@ I'm a passionate software developer with a strong interest in backend developmen
 - Blockchain development
 
 ## 💼 Experience
-- **Software Developer at XYZ Corp** (2023 - Present)
-  - Developed and maintained scalable backend services using Node.js and Django.
+- **Software Engineering student at Esprit** (2021 - Present)
+  - Developed and maintained scalable backend services using Node.js and springboot.
   - Implemented CI/CD pipelines using GitHub Actions and Docker.
   - Collaborated with cross-functional teams to design and implement new features.
 
