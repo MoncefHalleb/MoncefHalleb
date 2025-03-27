@@ -1,6 +1,5 @@
 # Moncef Halleb
 
-![Profile Image](https://avatars.githubusercontent.com/u/955550457?v=4)
 
 **Location:** Ariana, Tunisia  
 **Email:** [moncef.halleb@esprit.tn](mailto:moncef.halleb@esprit.tn)  
