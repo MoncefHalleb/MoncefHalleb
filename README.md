@@ -1,88 +1,69 @@
-# Moncef Halleb
 
+# 🚀 Moncef Halleb – Projets Techniques
 
-**Location:** Ariana, Tunisia  
-**Email:** [moncef.halleb@esprit.tn](mailto:moncef.halleb@esprit.tn)  
-**Phone:** +216 93251933  
-**GitHub:** [github.com/moncefhalleb](https://github.com/moncefhalleb)
+Bienvenue sur mon espace GitHub !  
+Je suis étudiant-ingénieur en informatique à l'ESPRIT, spécialisé en Génie Logiciel, passionné par le développement full-stack, les architectures cloud-native et l'intelligence artificielle. Voici un aperçu de mes projets académiques et personnels réalisés entre 2021 et 2024.
 
 ---
 
-## 🧑‍💻 Professional Summary
-
-Motivated IT engineering student with hands-on experience in secure, enterprise-grade applications using Spring Boot, Angular, Symfony, and JavaFX. Skilled in microservices, Docker, REST APIs, and OAuth2. Eager to contribute to innovative teams through technical strength and leadership.
-
----
-
-## 🛠️ Skills
-
-**Languages:**
-- Java, JavaScript, C/C++, PHP
-
-**Frameworks:**
-- Spring Boot, Angular, Symfony, React.js, JavaFX, Qt
-
-**Databases:**
-- MySQL, PostgreSQL, H2, MongoDB
-
-**Tools:**
-- Docker, Git, Postman, Keycloak, REST APIs, OAuth2
-
-**Concepts:**
-- Microservices, DevOps, MVC, CI/CD
-
-**Soft Skills:**
-- Leadership, Teamwork, Communication, Project Management
+## 🔧 Technologies clés
+- **Langages** : Java, Python, JavaScript, TypeScript, PHP, C++, C
+- **Frameworks** : Spring Boot, Angular, React, Symfony, Qt
+- **DevOps & Cloud** : Docker, Kubernetes, GitLab CI, Jenkins, AWS (EC2/S3), Azure
+- **IA & Données** : Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
+- **Authentification & Sécurité** : Keycloak (OAuth2), JWT, OWASP
 
 ---
 
-## 🎓 Education
+## 📁 Projets
 
-**ESPRIT, IT Engineering**  
-*Sep 2021 – Present*  
-Ariana, Tunisia  
-Relevant Coursework: Software Engineering, Data Structures, DevOps
-
----
-
-## 💼 Projects
-
-- **Mramma** *(2025 – Present)*  
-  Spring Boot + Angular platform with Dockerized microservices, SSO via Keycloak/OAuth2, and RBAC admin dashboards.
-
-- **Freelancy** *(2023 – 2024)*  
-  Freelance platform using Symfony (web) + JavaFX (desktop). Delivered authentication, reporting, and task workflow modules.
-
-- **Eco-Bikes** *(2023)*  
-  Mobile-first bike rental app in PHP. Built secure booking and responsive UI; optimized backend performance.
-
-- **Smart Event Planner** *(2022 – 2023)*  
-  Qt C++ event manager. Designed GUI and scheduling engine for conflict handling and calendar control.
-
-- **Tunisian Past-ture** *(2022)*  
-  SDL ecosystem simulation with clean architecture and original interaction mechanics.
+### 1. 💼 **Freelancy** – Plateforme freelance
+> Symfony (web) + JavaFX (desktop)  
+- Authentification sécurisée multi-rôles  
+- Génération de rapports et suivi d'activités  
+- Gestion du cycle de vie de projets
 
 ---
 
-## 🌟 Volunteering
-
-- **VP Marketing, Tunivisions Esprit GCEM** *(2022 – 2024)*
-- **General Secretary, Rotaract Tunis Belvédère** *(2022 – 2023)*
-- **General Secretary, Youth Changers Djerba** *(2019 – 2020)*
-
----
-
-## 🏆 Achievements
-
-- Transitioned from Math Baccalaureate to top-ranked IT student.
-- Led successful full-stack projects under strict deadlines.
-- Known for adaptability, leadership, and result-driven mindset.
+### 2. 🧭 **Mramma** – Application d’entreprise cloud-native
+> Spring Boot + Angular + Docker + Keycloak  
+- Microservices conteneurisés  
+- Authentification OAuth2, gestion des rôles  
+- Intégration d’APIs REST, dashboards dynamiques  
+- Déploiement cloud-ready avec CI/CD
 
 ---
 
-## 🌐 Languages
+### 3. 🚲 **Eco-Bikes** – Application de location de vélos
+> PHP + HTML/CSS  
+- Interface responsive mobile-first  
+- Réservation sécurisée et gestion de disponibilité  
+- Amélioration UX/UI
 
-- Arabic (Native)
-- French (Native)
-- English (Proficient)
-- German (Basic)
+---
+
+### 4. 📅 **Smart Event Planner**
+> Qt / C++  
+- Planification d’événements avec UI intuitive  
+- Détection automatique des conflits d’agenda  
+- Gestion dynamique de calendrier et réservations
+
+---
+
+### 5. 🌿 **Tunisian Past-ture** – Simulation écosystémique
+> C + SDL  
+- Moteur de rendu personnalisé pour interactions biologiques  
+- Gestion des entités, collisions et comportements  
+- Projet réalisé sans documentation externe (100% autonome)
+
+---
+
+## 👤 À propos de moi
+
+📫 **Email** : moncef.halleb@esprit.tn  
+🔗 [LinkedIn](https://www.linkedin.com/in/moncef-halleb-a01a75237/)  
+🌐 [GitHub](https://github.com/moncefhalleb)
+
+---
+
+Merci pour votre visite ! N’hésitez pas à consulter chaque dépôt pour les détails, le code source et les démonstrations techniques.
