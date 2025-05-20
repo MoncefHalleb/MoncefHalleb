@@ -3,7 +3,7 @@
 
 Bienvenue sur mon espace GitHub !  
 Je suis étudiant-ingénieur en informatique à l'ESPRIT, spécialisé en Génie Logiciel, passionné par le développement full-stack, les architectures cloud-native et l'intelligence artificielle. Voici un aperçu de mes projets académiques et personnels réalisés entre 2021 et 2024.
-![Moncef Halleb – Projets](https://raw.githubusercontent.com/MoncefHalleb/MoncefHalleb/main/moncef-banner.png) 
+![Moncef Halleb – Projets](./moncef-banner.png)
 ---
 
 ## 🔧 Technologies clés
